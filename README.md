@@ -16,7 +16,7 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> 20
+                    <td> 10
                         <td> F
                         <td> COMPUTER</td>
                     </td>
@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> LAMA HAYO
-                        <td> Z
+                    <td> 20
+                        <td> F
                     </td>
                     <td> COMPUTER
                     </td>
