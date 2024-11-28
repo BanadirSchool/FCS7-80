@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> 20
-                        <td> F
+                    <td> 50
+                        <td> E
                     </td>
                     <td> COMPUTER
                     </td>
